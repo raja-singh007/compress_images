@@ -1,0 +1,17 @@
+{
+  "name": "compressimg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "img.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "imagemin": "^7.0.1",
+    "imagemin-jpegtran": "^6.0.0",
+    "imagemin-mozjpeg": "^8.0.0",
+    "imagemin-pngquant": "^8.0.0"
+  }
+}
